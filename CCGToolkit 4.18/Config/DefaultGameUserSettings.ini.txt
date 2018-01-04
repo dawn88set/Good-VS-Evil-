@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [/Script/Engine.GameUserSettings]
 bUseVSync=False
 //ResolutionSizeX=1920
@@ -10,3 +11,17 @@ bUseDesktopResolutionForFullscreen=True
 FullscreenMode=0
 LastConfirmedFullscreenMode=0
 Version=5
+=======
+[/Script/Engine.GameUserSettings]
+bUseVSync=False
+//ResolutionSizeX=1920
+//ResolutionSizeY=1080
+//LastUserConfirmedResolutionSizeX=1920
+//LastUserConfirmedResolutionSizeY=1080
+WindowPosX=-1
+WindowPosY=-1
+bUseDesktopResolutionForFullscreen=True
+FullscreenMode=0
+LastConfirmedFullscreenMode=0
+Version=5
+>>>>>>> 88da0bb0c9e1adab4705400ff1da9ed0d8dd90d5
